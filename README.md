@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Navreet 👋
 
-<!--
-**NavreetSingh13/NavreetSingh13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java & Frontend Developer passionate about building clean UIs and interactive web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+![Java](https://img.shields.io/badge/Java-orange)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-green)
+![React](https://img.shields.io/badge/React-blue)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-teal)
+![MySQL](https://img.shields.io/badge/MySQL-blue)
+![Git](https://img.shields.io/badge/Git-red)
+
+---
+
+## 📁 Projects
+- **EchoMind** – AI-powered mental well-being chatbot  
+- **Gamified Learning Platform** – Full-stack ed-tech app  
+- **LeetCode Java Solutions** – DSA practice repository
+
+---
+
+## 📫 Connect
+- GitHub: https://github.com/NavreetSingh13
+- LinkedIn: https://linkedin.com/in/your-link
